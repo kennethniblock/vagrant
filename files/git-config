@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Ken Niblock
+	email = Kennethniblock@hotmail.com
+# Please adapt and uncomment the following lines:
+#	name = Ken Niblock
+#	email = kennethniblock@hotmail.com
+[init]
+	defaultBranch = main
